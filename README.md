@@ -41,6 +41,7 @@ JWT_SECRET_KEY=your-base64-secret
 SUPPORT_EMAIL=your@gmail.com
 
 APP_PASSWORD=your-gmail-app-password
+
 3. Run: `./gradlew bootRun`
 
 ## Auth Flow
